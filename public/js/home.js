@@ -321,7 +321,7 @@ function openPopup(popup) {
     } 
     
 function showPass() {
-  let pass = document.getElementById('passwordtext');
+  let pass = document.getElementById('passwordtextMeet');
 
   if(pass.type == 'password')
   {
