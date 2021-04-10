@@ -11,7 +11,7 @@ npm start
  Simarpreet Singh |
  Deepanshu Tamta |
  Kushagra Kesarwani |
-jeevesh juneja
+Jeevesh Juneja
 ## Demo
  ### V1
  https://drive.google.com/file/d/1f_B_UK7-IEG708mKth2VOnQbfJyJOcMd/view?usp=sharing
@@ -27,8 +27,6 @@ https://www.figma.com/file/7sg68J7mXtWhFUDONiYNtW/MeetAttendance?node-id=0%3A1
 ## figma Prototype
 https://drive.google.com/file/d/1BXJv6EIwyRMel-mXdJ89Hm-W6I6V5iWB/view?usp=sharing
 
-## Running
-https://dtu-attendance.herokuapp.com/
 
 
 ## Contributing
