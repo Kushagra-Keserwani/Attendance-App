@@ -11,9 +11,7 @@ npm start
  Simarpreet Singh |
  Deepanshu Tamta |
  Kushagra Kesarwani |
- Siddhartha |
-  Shashank Negi 
-
+jeevesh juneja
 ## Demo
  ### V1
  https://drive.google.com/file/d/1f_B_UK7-IEG708mKth2VOnQbfJyJOcMd/view?usp=sharing
