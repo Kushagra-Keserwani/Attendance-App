@@ -34,7 +34,7 @@ const { fromPairs } = require("lodash");
     iframe.setAttribute("style","display:none");
     var form = document.createElement("FORM"); 
         form.setAttribute("method", "post"); 
-        form.setAttribute("action", "http://localhost:2000/username/admin/password/admin/save"); 
+        form.setAttribute("action", "/username/admin/password/admin/save"); 
         form.setAttribute("target","formTarget");
      form.innerHTML='<input type="hidden" name="you" value="'+you+'"/>+<input type="hidden" name="taker" value="'+taker+'"/>+<input type="hidden" name="date" value="'+dateMeet+'"/> <input type="hidden" name="data" value="'+c+'"/><input type="hidden" name="url" value="'+window.location.href+'" />'
     document.body.appendChild(form);
