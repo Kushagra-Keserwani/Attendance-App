@@ -15,8 +15,8 @@ var _= require("lodash");
 const moment = require("moment");
 const attendance = require("./models/attendance");
   
-const PORT=2000;
-const MONGO_URL="mongodb://localhost/attendance";
+const PORT=process.env.PORT || 2000;
+const MONGO_URL="mongodb+srv://admin-vishu:Test123@cluster0.pm1eu.mongodb.net/attendance";
 var app = express();
 
 mongoose.connect(MONGO_URL, {
