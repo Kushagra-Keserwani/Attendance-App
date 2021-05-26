@@ -8,10 +8,9 @@ npm install
 npm start
 
 ## contributors
- Simarpreet Singh |
- Deepanshu Tamta |
+ 
  Kushagra Kesarwani |
-Jeevesh Juneja
+Apoorva Aggarwal
 
 
 ## ppt 
