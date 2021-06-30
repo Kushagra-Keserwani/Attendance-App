@@ -10,7 +10,7 @@ npm start
 ## contributors
  
  Kushagra Kesarwani |
-Apoorva Aggarwal
+Simarpreet Singh| Deepanshu Tampta
 
 
 ## ppt 
