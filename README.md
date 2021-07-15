@@ -1,6 +1,7 @@
 # attendance 
 We aim to build a web application that can take attendance data of a google meet virtual meeting or class easily. Also this app enables the user to securely manage his/her recorded attendance data, view and update it  without any hassle.
 
+## Live at https://attendance-dtu.herokuapp.com
 
 ## Installation
 
@@ -10,7 +11,7 @@ npm start
 ## contributors
  
  Kushagra Kesarwani |
-Simarpreet Singh| Deepanshu Tampta
+Simarpreet Singh| Deepanshu Tamta
 
 
 ## ppt 
