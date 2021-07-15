@@ -3,6 +3,10 @@ We aim to build a web application that can take attendance data of a google meet
 
 ## Live at https://attendance-dtu.herokuapp.com
 
+##   Video Demonstration (Click on the Image below to watch the demonstration video)
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/6bqLd5Gheeg/maxresdefault.jpg)](https://www.youtube.com/watch?v=6bqLd5Gheeg)
+
 ## Installation
 
 npm install 
@@ -15,7 +19,7 @@ Simarpreet Singh| Deepanshu Tamta
 
 
 ## ppt 
-https://drive.google.com/file/d/1KCUtu554PYfQZ-Eqv5at9_VFOdpsQ5g9/view?usp=sharing
+https://docs.google.com/presentation/d/1cfcbbZnh1UGvbevpb6WUWkubwlMBGf_Q4luSIpcVk9g/edit?usp=sharing
 
 ## figma UI
 https://www.figma.com/file/7sg68J7mXtWhFUDONiYNtW/MeetAttendance?node-id=0%3A1
