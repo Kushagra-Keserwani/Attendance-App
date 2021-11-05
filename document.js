@@ -1,12 +1,12 @@
 const { fromPairs } = require("lodash");
 
    // for saving to database
-   let c="";let dateMeet="";dateMeet+=new Date().toLocaleString("en-US");document.getElementsByClassName('VfPpkd-Bz112c-LgbsSe yHy1rc eT1oJ JsuyRc boDUxc')[1].click();
-   let taker=document.querySelectorAll('.ZjFb7c')[0].innerText;
-   let you = document.querySelectorAll('.ZjFb7c')[1].innerText;
+   let c="";let dateMeet="";dateMeet+=new Date().toLocaleString("en-US");document.querySelectorAll('[class^="VfPpkd-Bz112c-LgbsSe yHy1rc eT1oJ JsuyRc boDUxc"]')[1].click();
+   let taker=document.querySelectorAll('[class^="ZjFb7c"]')[0].innerText;
+   let you = document.querySelectorAll('[class^="ZjFb7c"]')[1].innerText;
    c+=you+"@";
-   for(var i=2;i<document.querySelectorAll('.ZjFb7c').length;++i){
-   var attendee=(document.querySelectorAll('.ZjFb7c')[i].innerText);
+   for(var i=2;i<document.querySelectorAll('[class^="ZjFb7c"]').length;++i){
+   var attendee=(document.querySelectorAll('[class^="ZjFb7c"]')[i].innerText);
    c+=attendee+"@";
   }
   function copyToClipboard(text) {
