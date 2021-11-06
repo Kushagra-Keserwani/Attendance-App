@@ -267,7 +267,7 @@ app.post("/username/:user/password/:pass/save",function(req,res){
                 },
                 (callback)=> {
 
-                    let attendees = req.body.data.split("@");
+                    let attendees = req.body.data.split(/[@]+/);
                     attendees.pop();
 
                     let new_attendance={
