@@ -398,7 +398,7 @@ function copyMeet() {
   c+=you+"@";
   for(var i=2;i<document.querySelectorAll('[class^="ZjFb7c"]').length;++i){
   var attendee=(document.querySelectorAll('[class^="ZjFb7c"]')[i].innerText);
-  c+=attendee+"; ";
+  c+=attendee+"@";
  }
  function copyToClipboard(text) {
       var dummy = document.createElement("textarea");
